@@ -1,0 +1,99 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+video {
+    width: 100%;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    color: white;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container1
+{
+    background-color:bisque;
+    display: flex;
+    margin-bottom: 0.5%;
+    
+}
+.container1 img{
+    width: 300px;
+    height: 400px;
+    padding: 2% 2%;
+    
+    
+}
+.container1 .tittle{
+    padding: 8% 8%;
+}
+.container2
+{
+    background-color:darksalmon;
+    display: flex;
+    margin-bottom: 0.5%;
+
+    
+}
+.container2 img{
+    width: 300px;
+    height: 400px;
+    padding: 2% 2%;
+    
+    
+    
+
+}
+.container2 .tittle{
+    padding: 8% 8%;
+}
+.container3
+{
+    background-color:lemonchiffon;
+    display: flex;
+    margin-bottom: 0.5%;
+
+    
+}
+.container3 img{
+    .carousel slide
+    padding-top: 2%;
+    padding-left: 2%;
+    padding: 2% 2%;
+    
+    
+}
+.container4
+{
+    background-color:aliceblue;
+    display: flex;
+    
+}
+.container3 .tittle{
+    padding: 8% 8%;
+}
+.container4 img{
+    width: 300px;
+    height: 200px;
+    padding-top: 2%;
+    padding-left: 2%;
+    
+}
+.container4 .tittle{
+    padding: 8% 8%;
+}
+
+#carouselExampleInterval .carousel-inner{
+    max-width: 30%;
+    height: 20%;
+    margin-top: 0.5%;
+    
+    
+    
+}
+
